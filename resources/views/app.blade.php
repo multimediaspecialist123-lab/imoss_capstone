@@ -16,5 +16,6 @@
     </head>
     <body class="font-sans antialiased">
         @inertia
+        dasdas
     </body>
 </html>
